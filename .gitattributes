@@ -1,0 +1,15 @@
+# Force language classification
+*.py linguist-language=Python
+*.ipynb linguist-language=Jupyter Notebook
+*.cpp linguist-language=C++
+*.sql linguist-language=SQL
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+
+# Ignore these from language stats
+*.md linguist-documentation
+*.drawio linguist-documentation
+assets/** linguist-vendored
+images/** linguist-vendored
+
