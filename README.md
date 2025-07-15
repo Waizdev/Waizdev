@@ -55,7 +55,10 @@
 > Full relational database + SRS document for managing airline operations.  
 
 🔹 **[Income Predictor with EDA](https://github.com/Waizdev/Income-Predictor-ML-model)**  
-> `adult.csv` dataset, EDA using pandas/seaborn & trained Random Forest classifier with FastAPI deployment.  
+> `adult.csv` dataset, trained Random Forest classifier with FastAPI deployment.
+
+🔹 **[EDA for Income predictor ](https://github.com/Waizdev/Income-Predictor-ML-model)**  
+> `adult.csv` dataset, EDA using pandas/seaborn 
 
 🔹 **[AI Fake News Detector](https://github.com/Waizdev/AI-Fake-News-Detector)**  
 > ML-based fake news detection using SentenceTransformers + XGBoost. Local deployment with custom frontend.  
