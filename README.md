@@ -25,9 +25,8 @@
 **Python libraries:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)   ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
-**Other:**                           
-![DBMS](https://img.shields.io/badge/DBMS-%23000000.svg?style=for-the-badge) 
-![Networking](https://img.shields.io/badge/Networking-%23FF6F00.svg?style=for-the-badge)  
+**Other:**![DBMS](https://img.shields.io/badge/DBMS-%23000000.svg?style=for-the-badge)  ![Networking](https://img.shields.io/badge/Networking-%23FF6F00.svg?style=for-the-badge)  
+
 
 
 ---
