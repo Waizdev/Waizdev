@@ -63,7 +63,7 @@
 🔹 **[AI Fake News Detector](https://github.com/Waizdev/AI-Fake-News-Detector)**  
 > ML-based fake news detection using SentenceTransformers + XGBoost. Local deployment with custom frontend.
 
-🔹 **DB Design Project (ERD + SQL)**  
+🔹 **[DB Design Project (ERD + SQL)](https://github.com/Waizdev/Data-base-assignment-1.git)**  
 > Four real-world scenarios (Library, University, Hospital, E-Commerce) featuring ERD modeling, 3NF normalization, and advanced SQL queries.
 
 📄 **Documents:**  
