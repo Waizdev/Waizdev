@@ -61,7 +61,10 @@
 > `adult.csv` dataset, EDA using pandas/seaborn 
 
 🔹 **[AI Fake News Detector](https://github.com/Waizdev/AI-Fake-News-Detector)**  
-> ML-based fake news detection using SentenceTransformers + XGBoost. Local deployment with custom frontend.  
+> ML-based fake news detection using SentenceTransformers + XGBoost. Local deployment with custom frontend.
+
+🔹 **DB Design Project (ERD + SQL)**  
+> Four real-world scenarios (Library, University, Hospital, E-Commerce) featuring ERD modeling, 3NF normalization, and advanced SQL queries.
 
 📄 **Documents:**  
 📘 **[SRS – Airline Management System](https://github.com/Waizdev/AirLine-Management-System/tree/main/SRS)**  
